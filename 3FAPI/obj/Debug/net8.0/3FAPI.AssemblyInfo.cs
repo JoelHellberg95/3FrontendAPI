@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3FAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aa49f3e359605b3a9c263e4c74b846c7280b4e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab74bfb77fa95c5335c2249f2617529cf85b4141")]
 [assembly: System.Reflection.AssemblyProductAttribute("3FAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3FAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
